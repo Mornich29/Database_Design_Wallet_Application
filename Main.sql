@@ -16,17 +16,6 @@ Merchant_Location  varchar(100) ,
 Shop_Name varchar(50),
 )
 
-Create Table Technical_Staff
-(
-Technical_Staff_ID varchar(10) Primary Key,
-Technical_Staff_First_Name varchar(200) ,
-Technical_Staff_Last_Name varchar(200) ,
-Technical_Staff_Email varchar(200) ,
-Technical_Staff_Phone varchar(20) , 
-Technical_Staff_Address  varchar(200) ,
-Technical_Staff_Birth_Date date,
-)
-
 Create Table Manager
 (
 Manager_Staff_ID varchar(10) Primary Key,
@@ -38,6 +27,21 @@ Manager_Staff_Address  varchar(200) ,
 Manager_Staff_Birth_Date date,
 )
 
+Create Table Technical_Staff
+(
+Technical_Staff_ID varchar(10) Primary Key,
+Technical_Staff_First_Name varchar(200) ,
+Technical_Staff_Last_Name varchar(200) ,
+Technical_Staff_Email varchar(200) ,
+Technical_Staff_Phone varchar(20) , 
+Technical_Staff_Address  varchar(200) ,
+Technical_Staff_Birth_Date date,
+Manager_Staff_ID VARCHAR(10) FOREIGN KEY REFERENCES Manager(Manager_Staff_ID)
+
+)
+
+
+
 Create Table Business_Analyst
 (
 Business_Analyst_Staff_ID varchar(10) Primary Key,
@@ -47,6 +51,7 @@ Business_Analyst_Staff_Email varchar(200) ,
 Business_Analyst_Staff_Phone varchar(20) , 
 Business_Analyst_Staff_Address  varchar(200) ,
 Business_Analyst_Staff_Birth_Date date,
+Manager_Staff_ID VARCHAR(10) FOREIGN KEY REFERENCES Manager(Manager_Staff_ID)
 )
 
 Create table Promotion
@@ -102,14 +107,14 @@ Create table Money_Transfer
 Transaction_ID		varchar(10) Primary Key,
 Sender_ID			varchar(10) FOREIGN KEY REFERENCES Wallet(Wallet_ID),
 Received_ID			varchar(10) FOREIGN KEY REFERENCES Wallet(Wallet_ID),
-Balanced			float,
+Amount				float,
 Transfer_Date		date
 )
 
 create table top_up_from_credit
 (
 credit_top_id		varchar(10) Primary Key,
-balanced			float,
+Amount				float,
 Credit_Card_Num		VARCHAR(20) FOREIGN KEY REFERENCES Credit_Card(Credit_Card_Num),
 Wallet_ID			VARCHAR(10) FOREIGN KEY REFERENCES Wallet(Wallet_ID),
 credit_top_up_date	date
@@ -118,7 +123,7 @@ credit_top_up_date	date
 Create table top_up_from_debit
 (
 debit_top_id			varchar(10) Primary Key,
-balanced				float,
+Amount					float,
 Debit_Card_Num			VARCHAR(20) FOREIGN KEY REFERENCES Debit_Card(Debit_Card_Num),
 Wallet_ID				VARCHAR(10) FOREIGN KEY REFERENCES Wallet(Wallet_ID),
 debit_top_up_date		date
@@ -127,9 +132,18 @@ debit_top_up_date		date
 Create table top_up_from_bank
 (
 Bank_top_id				varchar(10) Primary Key,
-balanced				float,
+Amount					float,
 Bank_Num				VARCHAR(12) FOREIGN KEY REFERENCES Book_Bank(Bank_Num),
 Wallet_ID				VARCHAR(10) FOREIGN KEY REFERENCES Wallet(Wallet_ID),
 bank_top_up_date		date
+)
+
+create table withdraw
+(
+WithDraw_ID				varchar(10) Primary Key,
+Wallet_ID				varchar(10) Foreign Key references Wallet(Wallet_ID),
+Amount					float,
+Withdraw_Date			date
+
 )
 

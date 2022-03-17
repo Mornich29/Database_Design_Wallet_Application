@@ -1,101 +1,101 @@
 id,Staff_ID,Owner_ID,Occur_Date,Issue_Type,Specific_Problem
-TI00000001,T000000084,U000000718,2019-04-23,Top-up issue,Application disconnect immediately
-TI00000002,T000000014,U000001557,2020-03-19,Transfer issue,Lagging
-TI00000003,T000000048,U000001147,2019-03-05,Registration issue,Cannot access app
-TI00000004,T000000100,U000000650,2020-09-24,Withdraw issue,Cannot access app
-TI00000005,T000000073,U000000013,2019-04-10,Withdraw issue,Application disconnect immediately
-TI00000006,T000000088,U000000680,2020-02-21,Registration issue,Lack of stable
-TI00000007,T000000096,U000000709,2020-11-09,Registration issue,Why I press the buttom
-TI00000008,T000000008,U000001034,2020-08-14,Top-up issue,Cannot access app
-TI00000009,T000000010,U000001371,2019-12-06,Transfer issue,Why I press the buttom
-TI00000010,T000000091,U000001736,2019-04-01,Registration issue,Lack of stable
-TI00000011,T000000020,U000001157,2019-12-07,Top-up issue,Don't stable
-TI00000012,T000000003,U000000479,2020-04-09,Transfer issue,Application lagging
-TI00000013,T000000100,U000000245,2019-02-23,Transfer issue,Fill box disappear
-TI00000014,T000000099,U000000966,2020-06-03,Withdraw issue,Application lagging
-TI00000015,T000000001,U000000215,2019-05-28,Transfer issue,Fill box disappear
-TI00000016,T000000064,U000001226,2021-06-17,Transfer issue,Don't have the German Language
-TI00000017,T000000070,U000001414,2020-01-09,Registration issue,Don't stable
-TI00000018,T000000016,U000001375,2020-11-29,Transfer issue,Lagging
-TI00000019,T000000082,U000000349,2020-06-30,Transfer issue,Why I press the buttom
-TI00000020,T000000035,U000001597,2018-12-08,Withdraw issue,Fill box disappear
-TI00000021,T000000088,U000001311,2021-08-16,Withdraw issue,Cannot access app
-TI00000022,T000000071,U000000143,2020-09-10,Top-up issue,Lack of stable
-TI00000023,T000000026,U000000997,2018-12-27,Registration issue,Lack of stable
-TI00000024,T000000031,U000000456,2020-01-27,Transfer issue,Fill box disappear
-TI00000025,T000000022,U000000157,2020-11-08,Withdraw issue,Lagging
-TI00000026,T000000085,U000001422,2021-06-07,Withdraw issue,Why I press the buttom
-TI00000027,T000000050,U000000571,2019-05-27,Transfer issue,Fill box disappear
-TI00000028,T000000012,U000000191,2021-03-17,Withdraw issue,Application lagging
-TI00000029,T000000046,U000000634,2020-01-26,Top-up issue,Don't have the German Language
-TI00000030,T000000033,U000000072,2019-09-18,Withdraw issue,Why I press the buttom
-TI00000031,T000000059,U000000887,2018-12-06,Withdraw issue,Don't stable
-TI00000032,T000000052,U000001127,2021-08-21,Registration issue,Application lagging
-TI00000033,T000000090,U000000608,2018-12-13,Withdraw issue,Application lagging
-TI00000034,T000000016,U000000769,2021-07-05,Top-up issue,Lagging
-TI00000035,T000000002,U000000793,2021-01-08,Registration issue,Lack of stable
-TI00000036,T000000067,U000000864,2021-09-09,Registration issue,Lagging
-TI00000037,T000000011,U000000628,2020-10-11,Withdraw issue,Lagging
-TI00000038,T000000090,U000000995,2019-10-13,Top-up issue,Don't stable
-TI00000039,T000000095,U000000260,2020-03-31,Top-up issue,Cannot access app
-TI00000040,T000000025,U000000862,2021-08-31,Registration issue,Application lagging
-TI00000041,T000000061,U000000091,2020-02-20,Registration issue,Why I press the buttom
-TI00000042,T000000019,U000001575,2021-08-29,Withdraw issue,Don't have the German Language
-TI00000043,T000000075,U000000448,2020-03-07,Withdraw issue,Lagging
-TI00000044,T000000073,U000000092,2020-03-17,Withdraw issue,Why I press the buttom
-TI00000045,T000000007,U000001159,2020-04-18,Transfer issue,Don't stable
-TI00000046,T000000086,U000001656,2021-03-01,Transfer issue,Don't stable
-TI00000047,T000000062,U000000845,2020-08-07,Withdraw issue,Fill box disappear
-TI00000048,T000000069,U000001141,2021-01-25,Withdraw issue,Application disconnect immediately
-TI00000049,T000000054,U000000499,2019-07-18,Withdraw issue,Don't stable
-TI00000050,T000000034,U000000784,2020-11-15,Withdraw issue,Don't have the German Language
-TI00000051,T000000030,U000000863,2020-08-06,Withdraw issue,Cannot access app
-TI00000052,T000000027,U000001312,2020-07-18,Registration issue,Don't have the German Language
-TI00000053,T000000018,U000001903,2020-08-26,Top-up issue,Application disconnect immediately
-TI00000054,T000000088,U000000112,2020-04-16,Transfer issue,Application disconnect immediately
-TI00000055,T000000065,U000000717,2021-05-26,Withdraw issue,Fill box disappear
-TI00000056,T000000071,U000000190,2019-01-19,Withdraw issue,Lack of stable
-TI00000057,T000000092,U000000291,2021-02-09,Transfer issue,Why I press the buttom
-TI00000058,T000000086,U000000932,2021-03-08,Top-up issue,Don't stable
-TI00000059,T000000065,U000001283,2019-04-01,Top-up issue,Application disconnect immediately
-TI00000060,T000000083,U000000189,2019-01-08,Withdraw issue,Don't have the German Language
-TI00000061,T000000052,U000000767,2019-01-03,Top-up issue,Don't have the German Language
-TI00000062,T000000004,U000000766,2020-07-05,Withdraw issue,Application lagging
-TI00000063,T000000079,U000001807,2020-09-17,Withdraw issue,Application lagging
-TI00000064,T000000083,U000000729,2019-12-09,Top-up issue,Application disconnect immediately
-TI00000065,T000000084,U000001875,2018-12-11,Top-up issue,Fill box disappear
-TI00000066,T000000017,U000000751,2020-04-24,Top-up issue,Why I press the buttom
-TI00000067,T000000049,U000001859,2019-02-03,Withdraw issue,Application lagging
-TI00000068,T000000045,U000000146,2019-08-12,Withdraw issue,Why I press the buttom
-TI00000069,T000000047,U000001873,2019-06-16,Top-up issue,Application lagging
-TI00000070,T000000052,U000001377,2020-11-29,Registration issue,Application disconnect immediately
-TI00000071,T000000016,U000001492,2019-02-01,Top-up issue,Application disconnect immediately
-TI00000072,T000000060,U000001500,2021-05-26,Transfer issue,Application lagging
-TI00000073,T000000028,U000000501,2021-11-29,Top-up issue,Why I press the buttom
-TI00000074,T000000006,U000001114,2021-07-23,Withdraw issue,Application disconnect immediately
-TI00000075,T000000032,U000001665,2021-12-01,Registration issue,Why I press the buttom
-TI00000076,T000000066,U000001377,2021-04-24,Transfer issue,Don't have the German Language
-TI00000077,T000000040,U000001280,2021-12-22,Transfer issue,Why I press the buttom
-TI00000078,T000000053,U000000093,2021-11-20,Withdraw issue,Don't stable
-TI00000079,T000000088,U000001638,2020-02-23,Transfer issue,Lagging
-TI00000080,T000000100,U000001624,2019-04-22,Transfer issue,Application lagging
-TI00000081,T000000022,U000000705,2020-11-09,Top-up issue,Don't stable
-TI00000082,T000000074,U000000963,2021-06-28,Registration issue,Don't stable
-TI00000083,T000000051,U000000028,2019-03-28,Top-up issue,Application lagging
-TI00000084,T000000094,U000000640,2020-01-05,Transfer issue,Fill box disappear
-TI00000085,T000000008,U000000678,2018-12-01,Transfer issue,Why I press the buttom
-TI00000086,T000000019,U000000499,2021-11-12,Registration issue,Lagging
-TI00000087,T000000075,U000001866,2019-08-07,Transfer issue,Cannot access app
-TI00000088,T000000013,U000001797,2021-05-07,Transfer issue,Cannot access app
-TI00000089,T000000071,U000000187,2021-03-27,Transfer issue,Don't have the German Language
-TI00000090,T000000004,U000000999,2018-12-10,Transfer issue,Don't stable
-TI00000091,T000000068,U000001209,2019-08-26,Registration issue,Application lagging
-TI00000092,T000000067,U000000682,2020-08-23,Withdraw issue,Lagging
-TI00000093,T000000092,U000001980,2021-09-15,Registration issue,Application disconnect immediately
-TI00000094,T000000077,U000000757,2020-03-05,Withdraw issue,Don't stable
-TI00000095,T000000047,U000000782,2019-11-05,Transfer issue,Don't stable
-TI00000096,T000000003,U000000028,2021-07-01,Withdraw issue,Don't stable
-TI00000097,T000000004,U000000199,2019-08-19,Transfer issue,Cannot access app
-TI00000098,T000000100,U000001507,2021-12-13,Transfer issue,Fill box disappear
-TI00000099,T000000024,U000001359,2019-08-09,Top-up issue,Don't have the German Language
-TI00000100,T000000065,U000000665,2019-09-02,Registration issue,Don't have the German Language
+TI00000001,T000000083,U000001371,2020-12-27,Registration issue,Application disconnect immediately
+TI00000002,T000000005,U000000939,2021-03-25,Transfer issue,Lack of stable
+TI00000003,T000000038,U000000293,2021-01-09,Top-up issue,Don't have the German Language
+TI00000004,T000000082,U000001060,2021-12-01,Top-up issue,Fill box disappear
+TI00000005,T000000073,U000001092,2019-08-14,Top-up issue,Application lagging
+TI00000006,T000000064,U000001811,2019-12-28,Top-up issue,Lack of stable
+TI00000007,T000000041,U000000654,2021-09-10,Withdraw issue,Application lagging
+TI00000008,T000000044,U000001661,2018-12-08,Withdraw issue,Lagging
+TI00000009,T000000023,U000000456,2019-02-13,Withdraw issue,Why I press the buttom
+TI00000010,T000000039,U000001006,2021-10-05,Top-up issue,Cannot access app
+TI00000011,T000000084,U000001336,2020-05-30,Transfer issue,Application disconnect immediately
+TI00000012,T000000023,U000001653,2018-12-28,Registration issue,Fill box disappear
+TI00000013,T000000035,U000001949,2021-09-28,Withdraw issue,Fill box disappear
+TI00000014,T000000057,U000000454,2020-08-13,Transfer issue,Lagging
+TI00000015,T000000087,U000000499,2020-11-29,Transfer issue,Application disconnect immediately
+TI00000016,T000000065,U000000805,2021-02-08,Top-up issue,Cannot access app
+TI00000017,T000000091,U000000937,2020-06-07,Transfer issue,Why I press the buttom
+TI00000018,T000000002,U000000539,2019-04-16,Withdraw issue,Don't have the German Language
+TI00000019,T000000005,U000000811,2020-05-13,Registration issue,Application lagging
+TI00000020,T000000028,U000000808,2019-04-14,Withdraw issue,Lack of stable
+TI00000021,T000000018,U000000210,2020-05-15,Withdraw issue,Don't stable
+TI00000022,T000000021,U000000965,2020-01-13,Registration issue,Don't have the German Language
+TI00000023,T000000095,U000000478,2021-11-22,Transfer issue,Fill box disappear
+TI00000024,T000000046,U000000866,2019-01-14,Registration issue,Cannot access app
+TI00000025,T000000017,U000001121,2019-05-09,Transfer issue,Application disconnect immediately
+TI00000026,T000000058,U000000891,2021-06-09,Transfer issue,Don't stable
+TI00000027,T000000097,U000000089,2020-07-23,Transfer issue,Don't stable
+TI00000028,T000000097,U000001004,2021-03-02,Transfer issue,Application disconnect immediately
+TI00000029,T000000015,U000001143,2019-06-19,Withdraw issue,Cannot access app
+TI00000030,T000000068,U000001988,2020-09-02,Withdraw issue,Don't have the German Language
+TI00000031,T000000013,U000000525,2021-12-02,Withdraw issue,Application disconnect immediately
+TI00000032,T000000011,U000000521,2020-05-06,Withdraw issue,Don't have the German Language
+TI00000033,T000000013,U000001917,2020-07-03,Registration issue,Application lagging
+TI00000034,T000000072,U000001911,2021-09-18,Registration issue,Fill box disappear
+TI00000035,T000000062,U000001892,2021-04-18,Withdraw issue,Cannot access app
+TI00000036,T000000067,U000000677,2021-01-07,Top-up issue,Don't have the German Language
+TI00000037,T000000018,U000001843,2019-07-02,Withdraw issue,Why I press the buttom
+TI00000038,T000000009,U000001044,2020-09-20,Transfer issue,Don't have the German Language
+TI00000039,T000000008,U000000536,2020-12-01,Registration issue,Application disconnect immediately
+TI00000040,T000000069,U000001264,2019-07-14,Top-up issue,Application disconnect immediately
+TI00000041,T000000099,U000001741,2020-05-13,Top-up issue,Lagging
+TI00000042,T000000009,U000001538,2021-05-15,Withdraw issue,Lack of stable
+TI00000043,T000000048,U000001670,2020-02-12,Transfer issue,Application disconnect immediately
+TI00000044,T000000093,U000001740,2019-05-16,Transfer issue,Don't stable
+TI00000045,T000000061,U000000175,2019-01-31,Withdraw issue,Cannot access app
+TI00000046,T000000076,U000001753,2020-11-09,Registration issue,Cannot access app
+TI00000047,T000000068,U000000405,2021-08-13,Top-up issue,Why I press the buttom
+TI00000048,T000000093,U000000513,2019-11-17,Withdraw issue,Lack of stable
+TI00000049,T000000035,U000000270,2020-12-17,Withdraw issue,Cannot access app
+TI00000050,T000000079,U000000479,2020-12-19,Withdraw issue,Don't have the German Language
+TI00000051,T000000069,U000001265,2019-03-27,Withdraw issue,Why I press the buttom
+TI00000052,T000000029,U000001276,2021-10-17,Withdraw issue,Fill box disappear
+TI00000053,T000000088,U000001241,2019-08-30,Registration issue,Don't stable
+TI00000054,T000000063,U000000452,2021-05-19,Withdraw issue,Cannot access app
+TI00000055,T000000030,U000000902,2019-06-30,Top-up issue,Don't have the German Language
+TI00000056,T000000036,U000001293,2021-02-13,Transfer issue,Lagging
+TI00000057,T000000090,U000001203,2021-11-19,Top-up issue,Why I press the buttom
+TI00000058,T000000056,U000000949,2020-12-18,Transfer issue,Lack of stable
+TI00000059,T000000077,U000000737,2021-09-13,Transfer issue,Lack of stable
+TI00000060,T000000024,U000000463,2020-06-23,Top-up issue,Application lagging
+TI00000061,T000000047,U000001243,2019-01-27,Withdraw issue,Lack of stable
+TI00000062,T000000025,U000001917,2019-04-26,Registration issue,Lack of stable
+TI00000063,T000000030,U000001545,2021-02-05,Transfer issue,Application lagging
+TI00000064,T000000097,U000001266,2019-10-15,Transfer issue,Fill box disappear
+TI00000065,T000000031,U000001522,2020-10-29,Withdraw issue,Fill box disappear
+TI00000066,T000000066,U000001803,2021-11-25,Transfer issue,Application disconnect immediately
+TI00000067,T000000064,U000001748,2019-11-10,Registration issue,Lagging
+TI00000068,T000000079,U000001479,2019-11-14,Withdraw issue,Fill box disappear
+TI00000069,T000000016,U000000954,2019-06-18,Transfer issue,Lack of stable
+TI00000070,T000000017,U000000221,2021-10-21,Withdraw issue,Why I press the buttom
+TI00000071,T000000036,U000000112,2020-08-18,Transfer issue,Fill box disappear
+TI00000072,T000000019,U000000297,2019-05-03,Transfer issue,Don't have the German Language
+TI00000073,T000000013,U000001361,2020-08-08,Transfer issue,Lack of stable
+TI00000074,T000000032,U000001285,2021-09-16,Top-up issue,Lagging
+TI00000075,T000000054,U000001861,2019-05-02,Withdraw issue,Don't stable
+TI00000076,T000000038,U000000863,2019-12-19,Transfer issue,Lagging
+TI00000077,T000000032,U000001559,2020-01-28,Registration issue,Don't stable
+TI00000078,T000000047,U000000214,2020-05-01,Registration issue,Fill box disappear
+TI00000079,T000000070,U000000252,2020-03-07,Top-up issue,Fill box disappear
+TI00000080,T000000030,U000001622,2021-03-09,Withdraw issue,Application lagging
+TI00000081,T000000082,U000000447,2020-01-09,Withdraw issue,Why I press the buttom
+TI00000082,T000000040,U000000096,2020-09-21,Top-up issue,Fill box disappear
+TI00000083,T000000067,U000001673,2019-11-02,Transfer issue,Cannot access app
+TI00000084,T000000033,U000001784,2020-05-22,Transfer issue,Application disconnect immediately
+TI00000085,T000000008,U000000505,2020-02-26,Registration issue,Don't stable
+TI00000086,T000000092,U000001622,2020-09-03,Top-up issue,Cannot access app
+TI00000087,T000000014,U000000977,2020-08-17,Top-up issue,Fill box disappear
+TI00000088,T000000070,U000000972,2021-04-14,Registration issue,Lagging
+TI00000089,T000000096,U000001415,2020-03-22,Top-up issue,Lack of stable
+TI00000090,T000000054,U000001373,2021-10-10,Withdraw issue,Cannot access app
+TI00000091,T000000050,U000001085,2020-11-06,Withdraw issue,Don't stable
+TI00000092,T000000100,U000001997,2021-09-03,Registration issue,Fill box disappear
+TI00000093,T000000004,U000000247,2019-09-26,Transfer issue,Fill box disappear
+TI00000094,T000000087,U000000502,2021-01-03,Registration issue,Fill box disappear
+TI00000095,T000000033,U000000632,2019-10-31,Registration issue,Why I press the buttom
+TI00000096,T000000091,U000000890,2019-10-30,Transfer issue,Lagging
+TI00000097,T000000029,U000000475,2021-05-08,Transfer issue,Cannot access app
+TI00000098,T000000097,U000000167,2020-06-23,Withdraw issue,Lagging
+TI00000099,T000000057,U000000505,2021-11-02,Registration issue,Application lagging
+TI00000100,T000000050,U000001513,2021-09-18,Top-up issue,Don't stable

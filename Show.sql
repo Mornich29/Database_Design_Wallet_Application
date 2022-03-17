@@ -1,3 +1,4 @@
+use Com
 --Owner
 select count(*) as Total_Index from Owner_
 select * from Owner_
@@ -53,3 +54,7 @@ select * from top_up_from_debit
 --Top_Up_by_Using_Book_Bank
 select count(*) as Total_Index from top_up_from_bank
 select * from top_up_from_bank
+
+--Withdraw 
+select count(*) as Total_Index from withdraw
+select * from withdraw
